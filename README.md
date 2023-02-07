@@ -45,8 +45,8 @@ Start the server using npm start
 The API will be available at http://localhost:5000
 
 .env file
-MONGO_URI 
-PORT 
+MONGO_URI ,
+PORT ,
 JWT_SECRET 
 
 Contributions
